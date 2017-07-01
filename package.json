@@ -1,0 +1,14 @@
+{
+  "name": "test-craft-demo-challange",
+  "version": "1.0.0",
+  "description": "test craft demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sergiy markov",
+  "license": "ISC",
+  "dependencies": {
+    "frisby": "^0.8.5"
+  }
+}
